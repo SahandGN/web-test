@@ -1,0 +1,8 @@
+{
+  "name": "Test2",
+  "version": "1.0.0",
+  "dependencies": {
+    "luxon": "^2.1.1",
+    "moment": "^2.29.1"
+  }
+}
